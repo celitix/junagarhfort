@@ -97,7 +97,7 @@ export default function Footer() {
             <li><Link href="/junagarh-fort-history" className="hover:text-yellow-500 transition">History</Link></li>
             <li><Link href="/bikaner-fort-architecture" className="hover:text-yellow-500 transition">Architecture</Link></li>
             <li><Link href="/junagarh-fort-bikaner-timings" className="hover:text-yellow-500 transition">Timings</Link></li>
-            <li><Link href="/palaces-in-junagarh-fort" className="hover:text-yellow-500 transition">Palaces</Link></li>
+            <li><Link href="/palaces" className="hover:text-yellow-500 transition">Palaces</Link></li>
             <li><Link href="/how-to-reach" className="hover:text-yellow-500 transition">How to reach</Link></li>
             <li><Link href="/blog" className="hover:text-yellow-500 transition">Blog</Link></li>
           </ul>
