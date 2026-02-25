@@ -16,7 +16,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Junagarh | Bikaner Kila | Bikaner Fort | Rajasthan Forts",
   description: "Junagarh fort Bikaner Rajasthan is an age old heritage site. The Fort is one of the most looked after places to visit in Bikaner.",
-    icons: {
+  alternates: {
+    canonical: "https://www.junagarhfort.com",
+  },
+  icons: {
     icon: [
       { url: '/junagarh-32x32.png', sizes: '16x16', type: 'image/png' },
       { url: '/junagarh-192x192.png', sizes: '192x192', type: 'image/png' },
